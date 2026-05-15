@@ -1,0 +1,28 @@
+{
+  "users": {
+    "badcria": {
+      "username": "badcria",
+      "email": "admin@muitamidia.gg",
+      "displayName": "BadCria",
+      "passwordHash": "",
+      "role": "admin",
+      "ownerBadge": true,
+      "featured": true,
+      "verified": true,
+      "bio": "Fundador da Muita Midia. Crie sua bio premium, personalize seu perfil e mostre sua identidade.",
+      "location": "Muita Midia",
+      "avatar": "/assets/mtm-logo.png",
+      "banner": "/assets/mtm-banner-red.png",
+      "music": "",
+      "theme": "red",
+      "particles": true,
+      "views": 0,
+      "links": [
+        {"label":"Discord","url":"https://discord.gg/"},
+        {"label":"Instagram","url":"https://instagram.com/"},
+        {"label":"TikTok","url":"https://tiktok.com/"}
+      ],
+      "createdAt": "2026-05-15T00:00:00.000Z"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "muitamidia-bios-platform",
+  "version": "3.0.0",
+  "description": "Muita Midia bios platform - professional red/black theme",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.18.3",
+    "cookie-parser": "^1.4.6"
+  }
+}
